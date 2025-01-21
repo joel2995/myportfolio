@@ -4,10 +4,10 @@ import { Heart, Mail, Phone, Github, Linkedin, ExternalLink } from 'lucide-react
 const currentYear = new Date().getFullYear();
 
 const socialLinks = {
-  email: 'techie.jr21@gmail.com',
-  phone: '+91 7604913189',
-  github: 'https://github.com/yourusername',
-  linkedin: 'https://linkedin.com/in/yourusername'
+  email: 'joelsundarsingh2005@gmail.com',
+  phone: '+91 8778728680',
+  github: 'https://github.com/joel2995',
+  linkedin: 'https://www.linkedin.com/in/joel-sundarsingh-738443252/'
 };
 
 const quickLinks = [
